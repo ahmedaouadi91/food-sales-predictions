@@ -6,3 +6,8 @@ Their primary goal is to build a predictive model and predict the sales of each 
 
 * Exploratory Data Analysis
 ![téléchargement](https://github.com/ahmedaouadi91/food-sales-predictions/assets/137283070/d23b06f3-7858-448e-bddd-c8a332f7878a)
+
+This histogram shows the distribution of item outlet sales by Prices.
+![téléchargement (1)](https://github.com/ahmedaouadi91/food-sales-predictions/assets/137283070/cdf9277d-532a-4ab4-88b5-267a25e10f1e)
+
+This histogram shows the distribution of item by Type.
