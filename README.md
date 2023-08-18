@@ -16,19 +16,20 @@ This histogram shows the distribution of item by Type.
 
  Maching Learning Using the Following Models:
   
-- Linear Regression Model
-- Decision Tree Regressor Model
+  Linear Regression Model
+  
+  Decision Tree Regressor Model
 
  *  Models Evaluated & Results
   
 Linear Regression Model (Testing Set):
 
-R^2:
+R^2: 0.57
 
-RMSE:
+RMSE: 1,092.81
 
 Decision Tree Regressor Model (Testing Set):
 
-R^2: 0.186
+R^2: 0.19
 
-RMSE: 61723.863
+RMSE: 1492.52
