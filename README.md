@@ -19,7 +19,7 @@ This histogram shows the distribution of item by Type.
 - Linear Regression Model
 - Decision Tree Regressor Model
 
-* Models Evaluated & Results
+*  Models Evaluated & Results
   
 Linear Regression Model (Testing Set):
 
