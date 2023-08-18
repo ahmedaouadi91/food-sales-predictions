@@ -39,4 +39,7 @@ RMSE: 1492.52
 * For the testing set on the model, 57% of the variance in y was explained by x.
 
 * The Root Mean Squared Error had a calculation of $1,092.81
+
+
+  
   
