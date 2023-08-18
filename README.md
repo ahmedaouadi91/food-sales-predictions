@@ -34,3 +34,9 @@ R^2: 0.19
 
 RMSE: 1492.52
 
+* The Final Model Chosen was a Linear Regressor Model .
+
+* For the testing set on the model, 57% of the variance in y was explained by x.
+
+* The Root Mean Squared Error had a calculation of $1,092.81
+  
