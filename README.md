@@ -13,6 +13,7 @@ This histogram shows the distribution of item outlet sales by Prices.
 This histogram shows the distribution of item by Type.
 
 * Summary of the model and its evaluation metrics
+
   Maching Learning Using the Following Models:
 - Linear Regression Model
 - Decision Tree Regressor Model
