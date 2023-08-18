@@ -11,6 +11,7 @@ This histogram shows the distribution of item outlet sales by Prices.
 ![téléchargement (1)](https://github.com/ahmedaouadi91/food-sales-predictions/assets/137283070/cdf9277d-532a-4ab4-88b5-267a25e10f1e)
 
 This histogram shows the distribution of item by Type.
+
 * Summary of the model and its evaluation metrics
   Maching Learning Using the Following Models:
 - Linear Regression Model
